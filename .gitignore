@@ -19,3 +19,5 @@ data/processed/
 .vscode/
 .DS_Store
 Thumbs.db
+
+data/raw/*.pdf
